@@ -1,1 +1,1 @@
-# My Angular 2
+# MyAngular2
